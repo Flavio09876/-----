@@ -1,5 +1,3 @@
-# Meu Repositório
-
 ![Nome da Capa](4f08b7e5e345ed6a0320de27ff9e1e4a.jpg)
 
 [![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)](link_para_python)
