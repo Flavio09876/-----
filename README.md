@@ -1,4 +1,7 @@
-<img src='4f08b7e5e345ed6a0320de27ff9e1e4a.jpg' alt="4f08b7e5e345ed6a0320de27ff9e1e4a"></img>
+# Meu Repositório
+
+![Nome da Capa](4f08b7e5e345ed6a0320de27ff9e1e4a.jpg)
+
 [![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)](link_para_python)
 
 <div>
