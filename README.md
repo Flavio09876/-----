@@ -12,12 +12,13 @@ oi, me chamo ZFF e estou na internet desde 2017
 e comecei programar no final de 2023 e estou tentando seguir o caminho da programação 
 
 
-### Linguagens
-- Python (iniciante)
-### Habilidades
-- Bots (médio)
-- Automação (médio)
-- Criatividade
+| Categoria   | Descrição    |
+|-------------|--------------|
+| Linguagens  | Python (iniciante) |
+| Habilidades | - Bots (médio)     |
+|             | - Automação (médio) |
+|             | - Criatividade     |
+
 
 
 
