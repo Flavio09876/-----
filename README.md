@@ -15,9 +15,10 @@ e comecei programar no final de 2023 e estou tentando seguir o caminho da progra
 | Categoria   | Descrição    |
 |-------------|--------------|
 | Linguagens  | Python (iniciante) |
-| Habilidades | - Bots (médio)     |
-|             | - Automação (médio) |
-|             | - Criatividade     |
+|         Habilidades 
+|      - Bots (médio)     |
+|      - Automação (médio) |
+|      - Criatividade     |
 
 
 
