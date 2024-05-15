@@ -28,3 +28,8 @@ e comecei programar no final de 2023 e estou tentando seguir o caminho da progra
 <p align="center"> 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 <p align="center">
     <img src="https://profile-counter.glitch.me/SnowPerfectDev/count.svg" alt="Profile Visits Count" />
 </p>
+
+
+| Cabeçalho 1 | Cabeçalho 2 |
+|-------------|-------------|
+| Dado 1      | Dado 2      |
