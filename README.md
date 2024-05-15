@@ -25,6 +25,6 @@ e comecei programar no final de 2023 e estou tentando seguir o caminho da progra
 
 
 
-<p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=SnowPerfectDev.SnowPerfectDev" alt="Visitor Count" />
+<p align="center"> 
+    <img src="https://profile-counter.glitch.me/SnowPerfectDev/count.svg" alt="Profile Visits Count" />
 </p>
