@@ -13,8 +13,8 @@ e comecei programar no final de 2023 e estou tentando seguir o caminho da progra
 
 <div>
 <a href="https://github.com/Flavio09876">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio09876&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sFlavio09876&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 ---
 
