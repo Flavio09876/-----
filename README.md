@@ -12,11 +12,28 @@ oi, me chamo ZFF e estou na internet desde 2017
 e comecei programar no final de 2023 e estou tentando seguir o caminho da programação 
 
 
-|    Linguagem   |    Python    |
-|----------------|--------------|
-|   Habilidades  |     Bots     |
-|                |  Automação   |
-|                | Criatividade |
+#### *OS:*
+<div>
+  <a href="#">
+    <img <a href="#">
+  <img
+src="https://img.shields.io/badge/Ubuntu-Latest-100000?style=for-the-badge&logo=Linux&logoColor=6abe82&labelColor=212121&color=6abe82"/>
+  </a>
+  <a href="#">
+    <img width="35px" src="https://img.icons8.com/color/362/debian.png" alt="Debian Logo">
+  </a>
+</div>
+<div>
+  <a href="#">
+    <img 
+src="https://img.shields.io/badge/Tails-Latest-100000?style=for-the-badge&logo=Linux&logoColor=6abe82&labelColor=212121&color=6abe82"/>
+  </a>
+  <a href="#">
+    <img width="25px" src="https://tails.net/contribute/how/promote/material/logo/tails-logo-drawing.svg" alt="Tails-Logo">
+  </a>
+</div>
+
+</div>
 
 
 
