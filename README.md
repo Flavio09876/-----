@@ -15,30 +15,15 @@ e comecei programar no final de 2023 e estou tentando seguir o caminho da progra
 ---
 
 <details close>
-  <summary><strong>My Skills</strong></summary>
+  <summary><strong>Minhas habilidads iniciantes</strong></summary>
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/
->
-  <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/
->
-  <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/
->
-  <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/
->
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/
->
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
->
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" /
->
- <img src = "https://img.shields.io/badge/PHP-%23121011.svg?style=for-the-badge&logo=PHP&logoColor=white" alt = "PHP" /
->
-  
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
 </details>
+
 
 
 
