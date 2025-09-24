@@ -8,29 +8,5 @@
 
 
 
-oi, me chamo ZFF e estou na internet desde 2017
-e comecei programar no final de 2023 e estou tentando seguir o caminho da programação 
-
+lib em desenvolvimento 
 ---
-
-<details close>
-  <summary><strong>Minhas habilidads iniciantes</strong></summary>
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
-
-</details>
-
-
-
-
-
-
-
-
-
-<p align="center"> 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 <p align="center">
-    <img src="https://profile-counter.glitch.me/SnowPerfectDev/count.svg" alt="Profile Visits Count" />
-</p>
